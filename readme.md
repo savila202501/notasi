@@ -43,6 +43,8 @@ Addresses, Ports, Usernames, Passwords, Database names, URLs, Headers and Bodies
 
 Run:
 ```bash
+sudo apt install curl
+sudo apt install git
 wget https://raw.githubusercontent.com/tullyclark/notasi/master/install/install.sh
 chmod +x install.sh
 sudo ./install.sh
